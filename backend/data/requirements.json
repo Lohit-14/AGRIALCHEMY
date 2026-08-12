@@ -1,0 +1,28 @@
+[
+  {
+    "id": "r1",
+    "company_id": "u_company1",
+    "waste_type": "Banana Stem",
+    "quantity_needed": 80,
+    "max_price_per_kg": 7,
+    "quality_grade": "A2",
+    "status": "OPEN",
+    "created_at": "2026-08-07T07:23:21.642Z",
+    "geo_lat": 12.9716,
+    "geo_lng": 77.5946,
+    "notes": "Need for biodegradable plates"
+  },
+  {
+    "id": "r2",
+    "company_id": "u_company1",
+    "waste_type": "Rice Straw",
+    "quantity_needed": 400,
+    "max_price_per_kg": 5,
+    "quality_grade": "B1",
+    "status": "OPEN",
+    "created_at": "2026-08-07T07:23:21.642Z",
+    "geo_lat": 12.9716,
+    "geo_lng": 77.5946,
+    "notes": "For paper pulp"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "id": "l1",
+    "farmer_id": "u_farmer1",
+    "waste_type": "Banana Stem",
+    "quantity": 100,
+    "price_per_kg": 6,
+    "quality_grade": "A2",
+    "photo_url": "",
+    "geo_lat": 12.834,
+    "geo_lng": 77.401,
+    "status": "APPROVED",
+    "created_at": "2026-08-07T07:23:21.642Z",
+    "description": "Fresh banana stems, harvested yesterday"
+  },
+  {
+    "id": "l2",
+    "farmer_id": "u_farmer2",
+    "waste_type": "Rice Straw",
+    "quantity": 500,
+    "price_per_kg": 3.5,
+    "quality_grade": "B1",
+    "photo_url": "",
+    "geo_lat": 13.0827,
+    "geo_lng": 77.609,
+    "status": "PENDING",
+    "created_at": "2026-08-07T07:23:21.642Z",
+    "description": "Dry rice straw, suitable for packaging"
+  },
+  {
+    "id": "l3",
+    "farmer_id": "u_farmer1",
+    "waste_type": "Sugarcane Bagasse",
+    "quantity": 300,
+    "price_per_kg": 4,
+    "quality_grade": "A2",
+    "photo_url": "",
+    "geo_lat": 12.834,
+    "geo_lng": 77.401,
+    "status": "APPROVED",
+    "created_at": "2026-08-07T07:23:21.642Z",
+    "description": "Bagasse after jaggery extraction"
+  }
+]

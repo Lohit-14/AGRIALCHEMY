@@ -1,0 +1,6 @@
+{
+  "commissionPercent": 10,
+  "geoRadiusKm": 100,
+  "emissionFactor": 1.5,
+  "listingExpiryDays": 30
+}
